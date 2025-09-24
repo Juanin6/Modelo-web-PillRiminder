@@ -31,8 +31,8 @@ export default function LoginPage() {
           </Link>
           <Link href="/signup" className="block">
           <Button
-            variant="outline"
-            className="w-full h-12 border-[#3b82f6] text-[#3b82f6] hover:bg-[#3b82f6] hover:text-white font-medium rounded-xl transition-colors bg-transparent"
+            
+            className="w-full h-12 bg-[#3b82f6] hover:bg-[#1e40af] text-white font-medium rounded-xl transition-colors"
           >
             Crear cuenta
           </Button>
