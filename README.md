@@ -77,21 +77,7 @@ Abre en el navegador: [http://localhost:3000](http://localhost:3000)
 ---
 
 
-## 🚀 Build y producción
 
-Genera la build optimizada:
-
-```bash
-npm run build
-```
-
-Ejecuta en modo producción:
-
-```bash
-npm start
-```
-
----
 
 ## 📚 Recursos útiles
 
